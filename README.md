@@ -2,7 +2,7 @@
 
 Sentiment analysis is the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information.
 
-So, In this project, I created a sentiment analysis model which is trained on the **Stanford Movie Dataset** [Dataset](https://ai.stanford.edu/~amaas/data/sentiment/). Then I split the data into *train* and *test* further and the *training data* contains approx 37500 text files and *testing data* contains the 10000 text files of sentiment reviews of movies.
+So, In this project, I created a sentiment analysis model which is trained on the **Stanford Movie Dataset** [Dataset](https://ai.stanford.edu/~amaas/data/sentiment/). Then I split the data into *train* and *test* further and the *training data* contains approx 37500 text files and *testing data* contains the 10000 text files of sentiment reviews of movies. You can download the data which I processed [here](https://drive.google.com/file/d/1GYBCzVDFCHAd-LgpVGHGg_LECdE-Awg3/view?usp=sharing).
 
 There are 3 different kind of models which is used for this project:
 
